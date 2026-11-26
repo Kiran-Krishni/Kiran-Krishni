@@ -1,16 +1,16 @@
 # Hi, I'm Kiran Krishni! 👋
 
-### 👩‍💻 Computer Science Undergraduate | Aspiring Full Stack Developer
+### Computer Science Undergraduate | Aspiring Full Stack Developer
 
-Welcome to my GitHub profile! I'm a Computer Science undergraduate at **South Eastern University of Sri Lanka**, passionate about software development, web technologies, and exploring Artificial Intelligence.
+I'm a fourth-year Computer Science undergraduate at **South Eastern University of Sri Lanka**, passionate about software development, web technologies, and Artificial Intelligence.
 
-I enjoy learning new technologies, solving problems, and turning ideas into practical applications.
+I enjoy learning new technologies, solving problems, and building practical projects.
 
 ---
 
 ### 🎓 Education
 
-- **BSc (Hons) in Computer Science**
+- BSc (Hons) in Computer Science
 - South Eastern University of Sri Lanka
 
 ---
@@ -18,12 +18,12 @@ I enjoy learning new technologies, solving problems, and turning ideas into prac
 ### 💻 Technical Skills
 
 **Programming Languages**
-- Python
-- Java
-- JavaScript
+- Python (Beginner)
+- Java (Beginner)
+- JavaScript (Beginner)
 - PHP
 
-**Web Development**
+**Web Technologies**
 - HTML
 - CSS
 - JavaScript
@@ -32,20 +32,23 @@ I enjoy learning new technologies, solving problems, and turning ideas into prac
 **Database**
 - MySQL
 
-**Tools & Technologies**
+**Tools**
 - Git & GitHub
 - Visual Studio Code
 - XAMPP
-- Postman
+- phpMyAdmin
 
 ---
 
 ### 🚀 Projects
 
-Here are some projects I have worked on:
+**1. Online External Course Registration System**
+- A web-based application for managing external course registrations.
+- Technologies: PHP, MySQL, HTML, CSS, JavaScript.
 
-- **Online External Course Registration System** – A web-based system for managing external course registrations.
-- **Tourist Management System** – A web application for exploring tourist destinations and managing travel bookings.
+**2. Tourist Management System**
+- A web application for exploring tourist destinations and managing travel bookings.
+- Technologies: HTML, CSS, JavaScript, PHP, MySQL.
 
 More projects coming soon!
 
@@ -53,18 +56,19 @@ More projects coming soon!
 
 ### 🌱 Currently Learning
 
-- Full Stack Development
-- Node.js and REST APIs
-- Software Engineering
+- Full Stack Web Development
+- Python Programming
+- JavaScript & Node.js
+- REST API Development
 - Generative AI
 
 ---
 
-### 📫 Connect With Me
+### 🤝 Connect With Me
 
-- LinkedIn: [My LinkedIn Profile](YOUR_LINKEDIN_URL)
+- LinkedIn: [Kiran Krishni](https://www.linkedin.com/in/kiran-krishni-a11a1b40b/)
 - GitHub: [Kiran-Krishni](https://github.com/Kiran-Krishni)
 
 ---
 
-⭐ *Always learning, building, and growing as a developer!* 🚀
+*Learning every day. Building step by step. Growing continuously.* 🚀
